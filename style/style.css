@@ -1,0 +1,8 @@
+.list_admin {
+    list-style-type: none;
+}
+.list_admin_item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
